@@ -7,7 +7,7 @@ You can watch the video tutorial and demonstration here: https://youtu.be/m5cS21
 For the complete step-by-step instructions, visit: https://randomnerdtutorials.com/build-an-all-in-one-esp32-weather-station-shield/
 
 How to browse the GitHub repository:
-- [Web server code (for Arduino IDE)](https://github.com/RuiSantosdotme/ESP32-Weather-Shield-PCB/blob/master/Code/ESP32_Weather_Station_Shield/ESP32_Weather_Station_Shield.ino)
+- [Web server code (for Arduino IDE)](https://raw.githubusercontent.com/RuiSantosdotme/ESP32-Weather-Shield-PCB/master/Code/ESP32_Weather_Station_Shield/ESP32_Weather_Station_Shield.ino)
 - [HTML page](https://raw.githubusercontent.com/RuiSantosdotme/ESP32-Weather-Shield-PCB/master/Code/index.html)
 - [Schematic diagram](https://github.com/RuiSantosdotme/ESP32-Weather-Shield-PCB/tree/master/Images)
 - [Gerber files](https://github.com/RuiSantosdotme/ESP32-Weather-Shield-PCB/raw/master/KiCad_PCB_ESP32_Shield/GERBERS/ESP32_Shield_Gerbers.zip)
